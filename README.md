@@ -25,7 +25,7 @@ Studying [Informatics - Data Science] at University of Washington<br/>
 
 
 
-Hardware:
+### Hardware:
 ![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-%23801010.svg?style=for-the-badge&logo=rhinoceros&logoColor=white)
