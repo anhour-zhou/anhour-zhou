@@ -1,10 +1,6 @@
-# Hi, I'm Xinyi!
-A Software Engineer sharing about my journey and learnings in tech<br/>
-Studying [Informatics - Data Science] at University of Washington<br/>
+# About Me
+Hi! I'm Xinyi, a Software Engineer sharing about my journey and learnings in tech. Studying [Informatics - Data Science] at University of Washington
 
-
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 
@@ -43,3 +39,5 @@ Studying [Informatics - Data Science] at University of Washington<br/>
 ![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
 
+
+# 💻 Tech Stack
