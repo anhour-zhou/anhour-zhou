@@ -1,6 +1,7 @@
 # About Me
-Hi! I'm Xinyi, a Software Engineer sharing about my journey and learnings in tech. Studying [Informatics - Data Science] at University of Washington
+Hi! I’m Xinyi, a Software Engineer and Machine Learning Engineer passionate about building scalable, software-hardware integrated products that solve real user needs.
 
+Focus Areas: Machine Learning, Full-Stack Software Development, Embedded System, Mechatronics
 
 # 💻 Tech Stack
 
