@@ -1,5 +1,5 @@
 # About Me
-Hi! I’m Xinyi, a Software Engineer and Machine Learning Engineer passionate about building scalable, software/hardware integrated products that solve real user needs.
+Hi! I’m Xinyi, a Software Engineer and Machine Learning Engineer passionate about building software/hardware integrated products that solve real user needs.
 
 Focus Areas: Machine Learning, Full-Stack Software Development, Embedded System, Mechatronics
 
