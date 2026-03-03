@@ -3,7 +3,7 @@ Hi! I’m Xinyi, a Software Engineer and Machine Learning Engineer passionate ab
 
 Focus Areas: Machine Learning, Full-Stack Software Development, Embedded System, Mechatronics
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,4 +43,4 @@ Focus Areas: Machine Learning, Full-Stack Software Development, Embedded System,
 ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
 
 
-# 💻 Tech Stack
+# Tech Stack
