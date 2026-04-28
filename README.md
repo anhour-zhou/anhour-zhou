@@ -2,7 +2,7 @@
 Hello! I'm Xinyi, a software engineer focused on backend infrastructure, distributed systems, and high-performance data pipelines.
 I enjoy building systems that are scalable, reliable, and production-ready.
 
-Focus Areas: Full-Stack Software Development, Machine Learning, Embedded System, Mechatronics
+Interested Areas: Software Development, Cloud Infrastructure, Machine Learning, Embedded System, Mechatronics
 
 ## 💻 Tech Stack
 
