@@ -1,9 +1,10 @@
-# About Me
-Hi! I’m Xinyi, a Software Engineer and Machine Learning Engineer passionate about building software/hardware integrated products that solve real user needs.
+🚀 About Me
+Hello! I'm Xinyi, a software engineer focused on backend infrastructure, distributed systems, and high-performance data pipelines.
+I enjoy building systems that are scalable, reliable, and production-ready.
 
 Focus Areas: Full-Stack Software Development, Machine Learning, Embedded System, Mechatronics
 
-# Tech Stack
+💻 Tech Stack
 
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
